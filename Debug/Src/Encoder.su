@@ -1,0 +1,3 @@
+C:/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+C:/chip_headers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Src/Encoder.c:11:6:Read_Encoder_Init	8	static

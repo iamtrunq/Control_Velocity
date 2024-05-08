@@ -1,0 +1,4 @@
+../Src/spi.c:5:6:SPI2_Init	4	static
+../Src/spi.c:81:6:SPI_Transmit	24	static
+../Src/spi.c:93:6:SPI_Transmit_16bits	24	static
+../Src/spi.c:110:6:SPI_Receive	16	static

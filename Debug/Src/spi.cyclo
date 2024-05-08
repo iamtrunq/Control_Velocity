@@ -1,0 +1,4 @@
+spi.c:5:6:SPI2_Init	1
+spi.c:81:6:SPI_Transmit	4
+spi.c:93:6:SPI_Transmit_16bits	4
+spi.c:110:6:SPI_Receive	4

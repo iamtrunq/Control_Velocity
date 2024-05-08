@@ -1,0 +1,2 @@
+../Src/tim2.c:6:6:TIM1_Init	4	static
+../Src/tim2.c:28:6:TIM1_Interrupt_Init	4	static
